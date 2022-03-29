@@ -19,7 +19,7 @@ const UpdateProduct = () => {
   const [product, setProduct] = useState({});
 
   useEffect(() => {
-    fetch(`https://radiant-ravine-14055.herokuapp.com/updateOne/${id}`)
+    fetch(`https://serene-woodland-86575.herokuapp.com/updateOne/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setProduct(data);
@@ -36,7 +36,7 @@ const UpdateProduct = () => {
     }).then((result) => {
       if (result.isConfirmed) {
         fetch(
-          `https://radiant-ravine-14055.herokuapp.com/updateProduct?id=${id}`,
+          `https://serene-woodland-86575.herokuapp.com/updateProduct?id=${id}`,
           {
             method: "put",
             headers: { "content-type": "application/json" },

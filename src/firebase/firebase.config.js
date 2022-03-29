@@ -8,13 +8,13 @@
 //   measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID
 // };
 const firebaseConfig = {
-  apiKey: "AIzaSyDM4qfEN93lQS_D3wGI05GJpnv_YG4jVzI",
-  authDomain: "jevelin-78a66.firebaseapp.com",
-  projectId: "jevelin-78a66",
-  storageBucket: "jevelin-78a66.appspot.com",
-  messagingSenderId: "673327381433",
-  appId: "1:673327381433:web:ec23b8d2ec74eb4cb21468",
-  measurementId: "G-6D6BTZMNSJ"
+  apiKey: "AIzaSyCx6-tHRXNhQEr7iHzcyycCAq9ApaleZm0",
+  authDomain: "ed-tech-160da.firebaseapp.com",
+  projectId: "ed-tech-160da",
+  storageBucket: "ed-tech-160da.appspot.com",
+  messagingSenderId: "701438405047",
+  appId: "1:701438405047:web:975fe3607b44ddec43a032",
+  measurementId: "G-06KGPLYTJ8"
 };
 
 export default firebaseConfig;

@@ -1,15 +1,17 @@
 # photographer server-website-side-orun-sunny
 
-Task Description:Our company focused on a photography website (pakages category selling website). Currently, here i am used React, firebase, react router, node, express, mongodb etc.
+Task Description: Currently, here i am used React, firebase, react router, node, express, mongodb etc.
 
-Live Site Link: https://jevelin-78a66.web.app/
+Live Site Link:https://ed-tech-160da.web.app/
 
-Client link:https://github.com/orun-sunny/client-side-jeveline
-server side: https://github.com/orun-sunny/photographer-server
+Client link:
+server side:
 
 we use to build these project:
 
 - NODE.JS
+  admin@gmail.com
+  pass: admin@gmail.com
   -Readme file added
   -.gitignore file added
 - .env.local added
