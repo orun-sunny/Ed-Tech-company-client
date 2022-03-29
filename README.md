@@ -1,4 +1,4 @@
-# photographer server-website-side-orun-sunny
+# ed tech server-website-side-orun-sunny
 
 Task Description: Currently, here i am used React, firebase, react router, node, express, mongodb etc.
 
