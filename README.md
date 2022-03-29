@@ -4,8 +4,8 @@ Task Description: Currently, here i am used React, firebase, react router, node,
 
 Live Site Link:https://ed-tech-160da.web.app/
 
-Client link:
-server side:
+Client link:https://github.com/orun-sunny/Ed-Tech-company-client
+server side:https://github.com/orun-sunny/Ed-tech-server
 
 we use to build these project:
 
